@@ -1,0 +1,71 @@
+{
+    "recordings": [
+        {
+            "key": "Clear Light Mind",
+            "description": "This is a description of this meditation. Benefits can be listed here as well.",
+            "artist": "Kadam Lucy James",
+            "duration": "5 minutes",
+            "file": "/file/path/to/meditation.mp3"
+        },{
+            "key": "Kind Heart",
+            "description": "This is a description of this meditation. Benefits can be listed here as well.",
+            "artist": "Kadam Lucy James",
+            "duration": "5 minutes",
+            "file": "/file/path/to/meditation.mp3"
+        },{
+            "key": "Emptiness",
+            "description": "This is a description of this meditation. Benefits can be listed here as well.",
+            "artist": "Kadam Lucy James",
+            "duration": "5 minutes",
+            "file": "/file/path/to/meditation.mp3"
+        },{
+            "key": "Taking & Giving",
+            "description": "This is a description of this meditation. Benefits can be listed here as well.",
+            "artist": "Kadam Lucy James",
+            "duration": "5 minutes",
+            "file": "/file/path/to/meditation.mp3"
+        },{
+            "key": "Kindness of Others",
+            "description": "This is a description of this meditation. Benefits can be listed here as well.",
+            "artist": "Kadam Lucy James",
+            "duration": "5 minutes",
+            "file": "/file/path/to/meditation.mp3"
+        },{
+            "key": "Black & White Breathing",
+            "description": "This is a description of this meditation. Benefits can be listed here as well.",
+            "artist": "Kadam Lucy James",
+            "duration": "5 minutes",
+            "file": "/file/path/to/meditation.mp3"
+        },{
+            "key": "Precious Human Life",
+            "description": "This is a description of this meditation. Benefits can be listed here as well.",
+            "artist": "Kadam Lucy James",
+            "duration": "5 minutes",
+            "file": "/file/path/to/meditation.mp3"
+        },{
+            "key": "Death & Impermanence",
+            "description": "This is a description of this meditation. Benefits can be listed here as well.",
+            "artist": "Kadam Lucy James",
+            "duration": "5 minutes",
+            "file": "/file/path/to/meditation.mp3"
+        },{
+            "key": "Karma",
+            "description": "This is a description of this meditation. Benefits can be listed here as well.",
+            "artist": "Kadam Lucy James",
+            "duration": "5 minutes",
+            "file": "/file/path/to/meditation.mp3"
+        },{
+            "key": "Bliss Boost",
+            "description": "This is a description of this meditation. Benefits can be listed here as well.",
+            "artist": "Kadam Lucy James",
+            "duration": "5 minutes",
+            "file": "/file/path/to/meditation.mp3"
+        },{
+            "key": "Renunciation",
+            "description": "This is a description of this meditation. Benefits can be listed here as well.",
+            "artist": "Kadam Lucy James",
+            "duration": "5 minutes",
+            "file": "/file/path/to/meditation.mp3"
+        }
+    ]
+}

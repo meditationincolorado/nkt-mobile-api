@@ -1,0 +1,150 @@
+{
+    "delusions": [
+        {
+            "key": "Anger",
+            "books": [
+                {
+                    "title": "Modern Buddhism",
+                    "author": "Geshe Kelsang Gyatso",
+                    "quotes": [
+                        {
+                            "page": 38,
+                            "text": "Lorem Ipsum"
+                        },{
+                            "page": 39,
+                            "text": "Lorem Ipsum"
+                        }
+                    ]
+                },{
+                    "title": "Universal Compassion",
+                    "author": "Geshe Kelsang Gyatso",
+                    "quotes": [
+                        {
+                            "page": 38,
+                            "text": "Cave Canum"
+                        },{
+                            "page": 39,
+                            "text": "Cave Canum"
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "key": "Attachment",
+            "books": [
+                {
+                    "title": "Modern Buddhism",
+                    "author": "Geshe Kelsang Gyatso",
+                    "quotes": [
+                        {
+                            "page": 38,
+                            "text": "Lorem Ipsum"
+                        },{
+                            "page": 39,
+                            "text": "Lorem Ipsum"
+                        }
+                    ]
+                },{
+                    "title": "Universal Compassion",
+                    "author": "Geshe Kelsang Gyatso",
+                    "quotes": [
+                        {
+                            "page": 38,
+                            "text": "Cave Canum"
+                        },{
+                            "page": 39,
+                            "text": "Cave Canum"
+                        }
+                    ]
+                }
+            ]
+        },{
+            "key": "Confusion",
+            "books": [
+                {
+                    "title": "Modern Buddhism",
+                    "author": "Geshe Kelsang Gyatso",
+                    "quotes": [
+                        {
+                            "page": 38,
+                            "text": "Lorem Ipsum"
+                        },{
+                            "page": 39,
+                            "text": "Lorem Ipsum"
+                        }
+                    ]
+                },{
+                    "title": "Universal Compassion",
+                    "author": "Geshe Kelsang Gyatso",
+                    "quotes": [
+                        {
+                            "page": 38,
+                            "text": "Cave Canum"
+                        },{
+                            "page": 39,
+                            "text": "Cave Canum"
+                        }
+                    ]
+                }
+            ]
+        },{
+            "key": "Jealousy",
+            "books": [
+                {
+                    "title": "Modern Buddhism",
+                    "author": "Geshe Kelsang Gyatso",
+                    "quotes": [
+                        {
+                            "page": 38,
+                            "text": "Lorem Ipsum"
+                        },{
+                            "page": 39,
+                            "text": "Lorem Ipsum"
+                        }
+                    ]
+                },{
+                    "title": "Universal Compassion",
+                    "author": "Geshe Kelsang Gyatso",
+                    "quotes": [
+                        {
+                            "page": 38,
+                            "text": "Cave Canum"
+                        },{
+                            "page": 39,
+                            "text": "Cave Canum"
+                        }
+                    ]
+                }
+            ]
+        },{
+            "key": "Pride",
+            "books": [
+                {
+                    "title": "Modern Buddhism",
+                    "author": "Geshe Kelsang Gyatso",
+                    "quotes": [
+                        {
+                            "page": 38,
+                            "text": "Lorem Ipsum"
+                        },{
+                            "page": 39,
+                            "text": "Lorem Ipsum"
+                        }
+                    ]
+                },{
+                    "title": "Universal Compassion",
+                    "author": "Geshe Kelsang Gyatso",
+                    "quotes": [
+                        {
+                            "page": 38,
+                            "text": "Cave Canum"
+                        },{
+                            "page": 39,
+                            "text": "Cave Canum"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
