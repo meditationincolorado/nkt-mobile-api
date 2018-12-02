@@ -119,7 +119,6 @@ module.exports = {
                     token = result.token,
                     credentials = result.installed
 
-                console.log(token, credentials)
                 googleAPI(req, res, token, credentials)
             })
             .on('error', response => {
